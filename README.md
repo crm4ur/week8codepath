@@ -26,7 +26,7 @@ Vulnerability #2: __________________
 ## Green
 
 Vulnerability #1: username enumeration
-<img src="my_gif_walkthrough_url" width="800">
+<img src="https://github.com/crm4ur/week8codepath/blob/master/cap1.gif" width="800">
 
 Vulnerability #2: __________________
 <img src="my_gif_walkthrough_url" width="800">
