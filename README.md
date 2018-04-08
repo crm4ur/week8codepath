@@ -19,8 +19,8 @@ Each version of the site has been given two of the six vulnerabilities. (In othe
 Vulnerability #1: sql injection
 <img src="https://github.com/crm4ur/week8codepath/blob/master/cap3.gif" width="800">
 
-Vulnerability #2: __________________
-<img src="my_gif_walkthrough_url" width="800">
+Vulnerability #2: session hijacking/fixation
+<img src="https://github.com/crm4ur/week8codepath/blob/master/cap6.gif" width="800">
 
 
 ## Green
@@ -37,8 +37,8 @@ Vulnerability #2: cross site scripting
 Vulnerability #1: insecure direct object reference
 <img src="https://github.com/crm4ur/week8codepath/blob/master/cap2.gif" width="800">
 
-Vulnerability #2: __________________
-<img src="my_gif_walkthrough_url" width="800">
+Vulnerability #2: Cross Site Request Forgery
+<img src="https://github.com/crm4ur/week8codepath/blob/master/cap5.gif" width="800">
 
 
 
