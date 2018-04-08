@@ -17,15 +17,19 @@ Each version of the site has been given two of the six vulnerabilities. (In othe
 ## Blue
 
 Vulnerability #1: sql injection
+<img src="my_gif_walkthrough_url" width="800">
 
 Vulnerability #2: __________________
+<img src="my_gif_walkthrough_url" width="800">
 
 
 ## Green
 
 Vulnerability #1: username enumeration
+<img src="my_gif_walkthrough_url" width="800">
 
 Vulnerability #2: __________________
+<img src="my_gif_walkthrough_url" width="800">
 
 
 ## Red
@@ -33,6 +37,8 @@ Vulnerability #2: __________________
 Vulnerability #1: insecure direct object reference
 
 Vulnerability #2: __________________
+<img src="my_gif_walkthrough_url" width="800">
+
 
 
 ## Notes
